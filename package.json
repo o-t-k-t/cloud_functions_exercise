@@ -1,0 +1,10 @@
+{
+  "name": "gcf-puppeteer-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/functions-emulator": "^1.0.0-beta.6",
+    "puppeteer": "^1.20.0"
+  }
+}
