@@ -1,0 +1,143 @@
+ 459  yarn add puppeteer
+  460  yarn add puppeteer
+  461  touch index.js
+  462  mkdir functions
+  463  touch functions/scraper
+  464  mv functions/scraper functions/scraper.js
+  465  yarn add global  @google-cloud/functions-emulator
+  466  yarn add global  @google-cloud/functions-emulator
+  467  nodebrew
+  468  command -v nvm
+  469  nvm --help
+  470  nvm ls
+  471  nvm ls-remote
+  472  nvm current
+  473  nvm user  v6.17.1  
+  474  ls -a
+  475  nvm use v6.17.1  
+  476  nvm install v6.17.1  
+  477  nvm use v6.17.1  
+  478  nvm current
+  479  yarn add global  @google-cloud/functions-emulator
+  480  history 
+  481  functions start
+  482  yarn functions start
+  483  gcloud
+  484  yarn index.js
+  485  yarn run index.js
+  486  node index.js 
+  487  node -v
+  488  yarn --help
+  489  yarn node
+  490  yarn node index.js
+  491  gcloud init
+  492  gcloud
+  493  python -v
+  494  python -V
+  495  brew cask install google-cloud-sdk
+  496  ls ~/
+  497  ls ~/ -a
+  498  ls ~/.bash_profile 
+  499  code  ~/.bash_profile 
+  500  history 
+  501  gcloud
+  502  gcloud init
+  503  gcloud auth login
+  504  gcloud 
+  505  gcloud config
+  506  gcloud config list
+  507  gcloud init
+  508  yarn functions start
+  509  yarn node index.js 
+  510  yarn node index.js 
+  511  node index.js 
+  512  yarn help
+  513  yarn node --help
+  514  yarn node --help
+  515  node index.js 
+  516  node functions/scraper.js 
+  517  node test
+  518  node test.js
+  519  node test.js
+  520  yarn node index.js 
+  521  const scraper = require('./functions/scraper');
+  522  exports.scraper = scraper;
+  523  yarn node index.js 
+  524  yarn add global @google-cloud/functions-emulator
+  525  $
+  526  functions start
+  527  yarn functions start
+  528  yarn  functions call scraper
+  529  yarn  functions call scraper
+  530  nvm ls-remote
+  531  history | nvm
+  532  history | grep "nvm"
+  533  nvm user v8.16.2 
+  534  nvm use v8.16.2 
+  535  yarn  functions call scraper
+  536  node -v
+  537  nvm current 
+  538  nvm ls
+  539  nvm ls-remote
+  540  nvm ls-remote | grep v8
+  541  nvm use v8.16.2  
+  542  nvm install v8.16.2  
+  543  nvm use v8.16.2  
+  544  node -v
+  545  yarn node -v
+  546  yarn functions start
+  547  history | grep functions
+  548   yarn  functions call scraper
+  549  yarn global add @google-cloud/functions-emulator
+  550  yarn global add @google-cloud/functions-emulator -f
+  551  yarn global delete  @google-cloud/functions-emulator
+  552  yarn global remove  @google-cloud/functions-emulator
+  553  yarn global remove  @google-cloud/functions-emulator
+  554  yarn global add @google-cloud/functions-emulator
+  555  nvm use v6.17.1  
+  556  yarn global add @google-cloud/functions-emulator
+  557  node -v
+  558  yarn global add @google-cloud/functions-emulator
+  559  yarn add @google-cloud/functions-emulator
+  560  which functions
+  561  yarn add @google-cloud/functions-emulator
+  562  functions
+  563  yarn functions
+  564  yarn functions strt
+  565  yarn functions start
+  566  yarn functions call
+  567  yarn functions call scraper
+  568   functions deploy scraper --trigger-http"
+  569   functions deploy scraper --trigger-http
+  570  yarn  functions deploy scraper --trigger-http
+  571  nvm use v8.16.2  
+  572  yarn add @google-cloud/functions-emulator
+  573  nvm use v6.17.1  
+  574  yarn  functions deploy scraper --trigger-http
+  575  nvm use v8.16.2  
+  576  yarn  functions deploy scraper --trigger-http
+  577  yarn functions call scraper
+  578* yarn functions scra
+  579  yarn functions call scraper
+  580  yarn functions call scraper
+  581  yarn functions call scraper
+  582  yarn functions call scraper
+  583  yarn functions stop
+  584  yarn fucntions start
+  585  yarn functions start
+  586  functions deploy scraper
+  587  yarn functions deploy scraper
+  588  yarn functions deploy scraper  --trigger-http
+  589  functions call scraper
+  590  yarn functions call scraper
+  591  yarn functions deploy scraper  --trigger-http
+  592  yarn functions call scraper
+  593  functions logs read
+  594  yarn functions logs read
+  595  yarn functions logs help
+  596  yarn functions logs clear
+  597  yarn functions call scraper
+  598  yarn functions logs read
+  599  yarn functions deploy scraper  --trigger-http
+  600  functions call scraper
+  601  yarn functions call scraper
